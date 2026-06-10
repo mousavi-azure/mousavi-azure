@@ -2,7 +2,7 @@
 <!--                    HEADER BANNER                 -->
 <!-- ╚══════════════════════════════════════════════╝ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Mostafa%20Mousavi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Developer%20%C2%B7%20.NET%20%C2%B7%20Azure%20%C2%B7%20Cloud%20%26%20DevOps&descSize=18&descAlignY=56" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Mostafa%20Mousavi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Developer%20%C2%B7%20.NET%20%C2%B7%20Azure%20%C2%B7%20Cloud%20%C2%B7%20DevOps&descSize=18&descAlignY=56" width="100%" />
 </div>
 
 <!-- ── Typing animation ── -->
